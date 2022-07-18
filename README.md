@@ -12,6 +12,7 @@ Niveles:
 ○ Jquery 90%
 
 Correo: majacasa_jueves@hotmail.com
+
 Sitio: https://github.com/aribela
 
 ○ Nivel que elegiste para resolver el assessment
