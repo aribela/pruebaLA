@@ -1,0 +1,18 @@
+21-07-2022 12:39:38: Se insertaron 0 categorias
+21-07-2022 12:42:02: Se insertaron 10 categorias
+21-07-2022 14:37:53: Se insertaron 0 categorias, 10 productos, 0 comentarios
+21-07-2022 14:38:55: Se insertaron 0 categorias, 10 productos, 0 comentarios
+21-07-2022 18:24:48: Se insertaron 10 categorias, 0 productos, 0 comentarios
+21-07-2022 18:29:03: Se insertaron 0 categorias, 0 productos, 10 comentarios
+21-07-2022 18:54:39: Se insertaron 0 comentarios
+21-07-2022 19:02:56: Se insertaron 200 productos
+21-07-2022 19:06:44: Se insertaron 1150 comentarios
+21-07-2022 19:10:17: Se insertaron 1150 comentarios
+21-07-2022 19:12:41: Se insertaron 1230 comentarios
+21-07-2022 19:17:49: Se insertaron 1230 comentarios
+21-07-2022 19:19:32: Se insertaron 1001 comentarios
+21-07-2022 19:20:21: Se insertaron 10 categorias, 10 productos, 10 comentarios
+22-07-2022 11:46:44: Se insertaron 10 categorias, 10 productos, 10 comentarios
+22-07-2022 11:48:48: Se insertaron 10 categorias, 10 productos, 10 comentarios
+22-07-2022 11:49:22: Se insertaron 10 categorias, 10 productos, 10 comentarios
+22-07-2022 11:50:32: Se insertaron 10 categorias, 10 productos, 10 comentarios
